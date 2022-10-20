@@ -1,1 +1,1 @@
-# Pricing American Put Option Using LSMC(Least Square Monte Carlo)
+# Pricing American Put Options Using LSMC(Least Square Monte Carlo)
